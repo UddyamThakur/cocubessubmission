@@ -1,0 +1,9 @@
+Export default Banner; 
+Style the banner using CSS. You can include the CSS in your component or use a separate CSS file. 
+Css 
+.banner { 
+ Background-color: #f0f0f0;
+Text-align: center; 
+ Padding: 20px; 
+ Font-size: 24px; 
+}
