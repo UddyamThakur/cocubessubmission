@@ -1,5 +1,5 @@
-Export default Banner; 
-Style the banner using CSS. You can include the CSS in your component or use a separate CSS file. 
+<!--Export default Banner; 
+Style the banner using CSS. You can include the CSS in your component or use a separate CSS file. -->
 Css 
 .banner { 
  Background-color: #f0f0f0;
